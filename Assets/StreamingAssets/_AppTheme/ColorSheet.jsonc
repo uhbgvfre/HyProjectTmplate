@@ -1,0 +1,13 @@
+{
+    // ！Tip: <六碼色號映射至RGB、八碼色號映射至RGBA>
+    // -------------------------------------------
+    // 【SystemColor】
+    "sysBackground": "00000000",
+    "sysFont": "111111",
+    // -------------------------------------------
+    // 【PanelColor】
+    "panelBackground": "000000ff",
+    "panelForeground_1": "AAffffff",
+    "panelForeground_2": "BBffffff",
+    "panelFont": "CCffffff"
+}
